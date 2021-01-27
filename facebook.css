@@ -1,0 +1,77 @@
+#car{
+    background-color:#F0F2F5;
+}
+#ek{
+    height: 100px;
+    margin-left: 8%;
+    margin-bottom: -2%;
+    font-size: 28px;
+}
+#dui{
+    margin-top: 13%;
+    margin-bottom: 15%;
+   
+}
+#tin{
+    text-align: center;
+}
+#tin a{
+    text-decoration: none;
+    color: #414246;  
+}
+#pac{
+    width: 55%;
+}
+#choy{
+    margin-left: 12%;
+    max-width: 400px;
+    font-size: 28px;
+}
+#sat{
+    margin-left: 1%;
+    margin-top: -10%;
+   max-width: 400px;
+    background-color: #FFFFFF;
+    padding:5% 2% ;
+    border-radius: 10px;
+    margin-bottom: 5%;
+}
+#at{
+    text-align: center;
+}
+#at a{
+    text-decoration: none;
+    color:#1877F2;
+}
+
+#noy{
+    background-color: #3a8af1;
+    color:white;
+    line-height: 40px;
+    font-size: 20px;
+}
+#dosh{
+    background-color: #36A420;
+    color: white;
+    font-size: 17px;
+    line-height: 36px;
+
+}
+#egaro{
+    font-size: 12px;
+    background-color: white;
+   
+}
+#baro{
+    font-size: 12px;
+    background-color: white;
+}
+#tero{
+    background-color: white;
+    padding: 5px;
+    border: 1px solid black;
+}
+#choddo{
+    background-color: white;
+    padding-top: 1%;
+}
